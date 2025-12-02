@@ -1,7 +1,7 @@
 JunkieCore = nil
 JD = nil
 JunkieProtected = nil
-local url = "https://api.junkie-development.de/api/v1/luascripts/public/dddccd0ae232b69eb42d336a7e25eae7713e910232003f3f54e86edb1b938918/download"
+local url = "https://api.junkie-development.de/api/v1/luascripts/public/3987248819611851230c409b3b8839ff24f455ef7f4337d2e5a1287ad38b29f0/download"
 
 local code = game:HttpGet(url, true)
 if code then
